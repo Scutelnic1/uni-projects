@@ -1,3 +1,10 @@
 body {
     background-color: rgb(205, 192, 192);
 }
+
+.sketch-container {
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
